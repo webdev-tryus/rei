@@ -1,0 +1,17 @@
+.realesate-sale .realestate-sqft{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+.custom-accordion .elementor-tab-title i{
+    font-size: 12px;
+}
+.elementor-accordion-item {
+    margin-bottom: 10px;
+}
+.elementor-tab-desktop-title.elementor-active {
+    background-color: #f7657d !important;
+}
+.elementor-widget-tabs .elementor-tab-content {
+    padding: 20px 0;
+}

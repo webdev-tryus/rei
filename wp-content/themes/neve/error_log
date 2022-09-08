@@ -1,0 +1,4 @@
+[26-Feb-2021 19:56:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home/trysnmlg/web.reiwebsuite.com/wp-content/themes/neve/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/trysnmlg/web.reiwebsuite.com/wp-content/themes/neve/index.php on line 7
